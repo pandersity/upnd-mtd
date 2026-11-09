@@ -1,6 +1,6 @@
 [submodule "mothertongues-UI"]
-	path = mothertongues-UI
-	url = ../mothertongues-UI.git
+	path = upnd-mtd-ui
+	url = ../upnd-mtd-ui.git
 [submodule "mtd-starter"]
 	path = mtd-starter
 	url = ../mtd-starter.git
